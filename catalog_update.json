@@ -226,7 +226,7 @@
     {
       "id": "damage-indicators",
       "name": "Indicadores de daño",
-      "version": "1.0.22",
+      "version": "1.0.23",
       "type": "asi",
       "categories": [
         "mod"
@@ -258,9 +258,9 @@
       "files": [
         {
           "path": "Jose_damage_indicators.asi",
-          "source": "packages/damage-indicators/1.0.22/Jose_damage_indicators.asi",
+          "source": "packages/damage-indicators/1.0.23/Jose_damage_indicators.asi",
           "bytes": 382976,
-          "sha256": "87193c06c29888be606dac238a9b58001f67f2eef70ba1d27c4e65f3424a9c73"
+          "sha256": "18d3894ec6ede1b84714f26239be2b72a1e330cd08b023181e691bdfc05e3af4"
         }
       ],
       "titles": {
