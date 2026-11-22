@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"cpf-death-screen\",\"version\":\"1.0.8\",\"type\":\"asi\",\"entry\":\"Jose_cpf_death_screen.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_cpf_death_screen.asi\",\"source\":\"packages/cpf-death-screen/1.0.8/Jose_cpf_death_screen.asi\",\"bytes\":760320,\"sha256\":\"2bbdda95341038d345ebc7e7f365a3c22802bff1bb6f0156ef5315cdeae1a6a1\"},{\"path\":\"assets/CPF.mp3\",\"source\":\"packages/cpf-death-screen/1.0.8/assets/CPF.mp3\",\"bytes\":165750,\"sha256\":\"d1fcf331841264f18cb9d0807c55bd3334200246976f612e62d0004cc93bd9ac\"}]}}",
+  "signature": "caa3eba05124194a5bc6540c309e08242c878cf641e300cc108f950786420c0a2758182921623a09334b7f0c39716fecc6786325ee0eb9411a43d4a00309df8f"
+}

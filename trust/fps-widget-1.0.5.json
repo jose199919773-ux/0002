@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"fps-widget\",\"version\":\"1.0.5\",\"type\":\"asi\",\"entry\":\"Jose_fps_widget.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_fps_widget.asi\",\"source\":\"packages/fps-widget/1.0.5/Jose_fps_widget.asi\",\"bytes\":16384,\"sha256\":\"90c6c9b5d8437c5cb92f46c8dd5783c2a663499549f61beea917aecd7d46da03\"}]}}",
+  "signature": "d6f4ee0a94404d6ebb754eecdeac82c3b2aac07be6dc6e9e6526971ba45a07aaeb95ef24819a8ebbecec5c01b5cb9d2a1c61e99dc2796ddab2ad5d905eccd5ef"
+}

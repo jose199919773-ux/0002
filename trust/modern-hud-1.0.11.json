@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"modern-hud\",\"version\":\"1.0.11\",\"type\":\"asi\",\"entry\":\"Jose_modern_hud.asi\",\"api\":7,\"unloadable\":true,\"files\":[{\"path\":\"Jose_modern_hud.asi\",\"source\":\"packages/modern-hud/1.0.11/Jose_modern_hud.asi\",\"bytes\":428032,\"sha256\":\"5fd3320925c6e50993e963261a46c789b770c6bbccd943d1aaa9cde4a1ec2171\"}]}}",
+  "signature": "c22e5e38cfdf88e5670a9717001325f3d66722291c37caf9c7acb912cbed18ecf3bee92f59d098b714027be5d6541de4d1767645ed8edb2dbbf018cc2708c45c"
+}

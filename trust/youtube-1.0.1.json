@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"youtube\",\"version\":\"1.0.1\",\"type\":\"asi\",\"entry\":\"Jose_youtube.asi\",\"api\":8,\"unloadable\":true,\"files\":[{\"path\":\"Jose_youtube.asi\",\"source\":\"packages/youtube/1.0.1/Jose_youtube.asi\",\"bytes\":7680,\"sha256\":\"796ebe2297de11b9f73786ff30ca3c41f85fd0ff0afbfa0bb892a4549df5aae8\"}]}}",
+  "signature": "9b6e6f30b4764e62b1052e76902e969db853c1cd4849c63a3ec3689c05a8b9db6324ec14736c27798753e98e6143ae8581bcf74f025205ae35e4d343d1066bd5"
+}

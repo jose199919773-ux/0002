@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"head-marker\",\"version\":\"1.0.9\",\"type\":\"asi\",\"entry\":\"Jose_head_marker.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_head_marker.asi\",\"source\":\"packages/head-marker/1.0.9/Jose_head_marker.asi\",\"bytes\":340992,\"sha256\":\"0cfa8be8e9bda3f5120d830615d1a09058b05febbb56c32b264d8f029cb394fb\"}]}}",
+  "signature": "66183ee2a0ae8fda84807e7b97babb5e34eb616b4462bacdc2b2738337421710b6609e59a352352ab1da9be2832e48a8c94b395740fc02de0bcae14ba3c8cfeb"
+}

@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"za4-crosshair\",\"version\":\"1.0.15\",\"type\":\"asi\",\"entry\":\"Jose_za4_crosshair.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_za4_crosshair.asi\",\"source\":\"packages/za4-crosshair/1.0.15/Jose_za4_crosshair.asi\",\"bytes\":59392,\"sha256\":\"bae67feb151a4f082a55b43e5acd45b4595bb077ff558b3f148b40d9a3fda44c\"}]}}",
+  "signature": "97b2f47a9c481873903a28bf06b24ac7a267c03f07b78d3295748d87b2b0673a345d3f95b904c455e6486703fa1a3fa3d6441ba4cf682794be161f801301a341"
+}

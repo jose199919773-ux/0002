@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"halo-hitmarker\",\"version\":\"1.0.14\",\"type\":\"asi\",\"entry\":\"Jose_hitmarker.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_hitmarker.asi\",\"source\":\"packages/halo-hitmarker/1.0.14/Jose_hitmarker.asi\",\"bytes\":336896,\"sha256\":\"36f9c9248b7635d214c9cd9cbdbcb33b5377c8a01326bd992532eb7a65264b78\"},{\"path\":\"hitmarker.mp3\",\"source\":\"packages/halo-hitmarker/1.0.14/hitmarker.mp3\",\"bytes\":2022,\"sha256\":\"49ef753bbfb8ad572a5768f445fbd84c7df2c94fcfe03aaa9c9eac5f2aa48cde\"}]}}",
+  "signature": "771920ff5b4629f2040ed5cd6df681baebd990dd1fe9e7d46d88a5cc2fdd730c22c1cef659ee16bac52a5f7556185d14d26318af44e1392da4e6feef5ee99105"
+}

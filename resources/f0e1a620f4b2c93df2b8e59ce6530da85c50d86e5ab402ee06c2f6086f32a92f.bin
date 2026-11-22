@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"low-hp-veins\",\"version\":\"1.0.6\",\"type\":\"asi\",\"entry\":\"Jose_low_hp_veins.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"assets/venas_image.png\",\"source\":\"packages/low-hp-veins/1.0.6/assets/venas_image.png\",\"bytes\":749910,\"sha256\":\"f431d3614768202ae1e5afa8af54e40331c589ef8f5910e2e6cbf7bf1202f6d3\"},{\"path\":\"Jose_low_hp_veins.asi\",\"source\":\"packages/low-hp-veins/1.0.6/Jose_low_hp_veins.asi\",\"bytes\":30720,\"sha256\":\"fed86afcb3dc8e3f59a3e5d2d18239138910b17836b3a4938044279f79f9b951\"}]}}",
+  "signature": "bbe4eb09709f636d5ad77fcefe38758e817088e5ebb26626ef9ef55be642be5dd393e270db7818214324817a4b2f0a90d427bab89569c1b504692fd59b2848ac"
+}

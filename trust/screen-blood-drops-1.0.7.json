@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"screen-blood-drops\",\"version\":\"1.0.7\",\"type\":\"asi\",\"entry\":\"Jose_screen_blood_drops.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_screen_blood_drops.asi\",\"source\":\"packages/screen-blood-drops/1.0.7/Jose_screen_blood_drops.asi\",\"bytes\":24064,\"sha256\":\"e2856a11a9713e9d65bda852b15504a910313cf84b1c56750e3b300149326b51\"}]}}",
+  "signature": "102b48a6072957a1ada2a216000fb8040b5c47b5455e3e56abc0ad49eecde6010a4da466e30757d8f25c36ddc2c5e5d49dc198f603479e047da28a6ebae6249f"
+}

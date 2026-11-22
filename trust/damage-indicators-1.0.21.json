@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"damage-indicators\",\"version\":\"1.0.21\",\"type\":\"asi\",\"entry\":\"Jose_damage_indicators.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_damage_indicators.asi\",\"source\":\"packages/damage-indicators/1.0.21/Jose_damage_indicators.asi\",\"bytes\":382976,\"sha256\":\"ac86a9603002e5bfe8d07929f0fa97c483606164002e7cf5b50c17a0e4a89561\"}]}}",
+  "signature": "a5f3e6597f9702ca4295e27c2f8adb0cd7e02531f40364592bdede525a4cac77c08e19465af35bfdf1fabee99214d5d16937e2440cf9cd3654c283a7694868fb"
+}

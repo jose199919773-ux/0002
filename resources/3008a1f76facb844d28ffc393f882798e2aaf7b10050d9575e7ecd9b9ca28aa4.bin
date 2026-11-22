@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"visual-armor\",\"version\":\"1.0.7\",\"type\":\"asi\",\"entry\":\"Jose_visual_armor.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_visual_armor.asi\",\"source\":\"packages/visual-armor/1.0.7/Jose_visual_armor.asi\",\"bytes\":22528,\"sha256\":\"4712affcc3d29fcb19fb47e730dbb6358bfeab6bdea43eb56b3fdbe214ca27b5\"}]}}",
+  "signature": "46825c07d9fec1b6370d2f908571188d4821c97dd8d306e4b35342019a6c09199c8412863c9148583b2387d90e410eb13cc5498f82a48cdc573b74573b518e06"
+}

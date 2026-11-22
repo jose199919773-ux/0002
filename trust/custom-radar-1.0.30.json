@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"custom-radar\",\"version\":\"1.0.30\",\"type\":\"asi\",\"entry\":\"Jose_custom_radar.asi\",\"api\":7,\"unloadable\":true,\"files\":[{\"path\":\"Jose_custom_radar.asi\",\"source\":\"packages/custom-radar/1.0.30/Jose_custom_radar.asi\",\"bytes\":1252864,\"sha256\":\"1be0ae7b5fedce24a80b2f8d15c8c954caa0099c46b492da4051795a3fd5f5b3\"}]}}",
+  "signature": "0933e134f34ce1ccbbd952461ce00a8773b89eab3eece78952a60bef43b140fff67c38ca4cb8e18adf81ac6c45ff492efba690bdf3bd95c2f99ad7bc2b925275"
+}

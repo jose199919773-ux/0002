@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"ammo-hud\",\"version\":\"1.0.9\",\"type\":\"asi\",\"entry\":\"Jose_ammo_hud.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_ammo_hud.asi\",\"source\":\"packages/ammo-hud/1.0.9/Jose_ammo_hud.asi\",\"bytes\":120832,\"sha256\":\"6c6de540e12d19aa1ae8f0e3b24a2aec539edf6bce9fb16801d6edc00ef34c8b\"},{\"path\":\"assets/ammo.png\",\"source\":\"packages/ammo-hud/1.0.9/assets/ammo.png\",\"bytes\":2309,\"sha256\":\"45db0deaa765d8b16689584fbec35c94bf0aa6fd6eb3d451ddb3989d0b2c3491\"}]}}",
+  "signature": "1e3ddc8b88d004fdc033e67c1bd100cec83168b3d733729e5d33cee1a4681a5a0f36e8f62ed2b7cff79a5707defa859cca8d1f5adffc36e7874d9985890c09cb"
+}

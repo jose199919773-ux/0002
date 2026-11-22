@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hud Remake — YouTube</title>
+<style>html,body,#player{width:100%;height:100%;margin:0;overflow:hidden;background:#000;color:#fff}#notice{position:absolute;inset:0;display:grid;place-items:center;font:16px sans-serif;text-align:center;pointer-events:none} .spinner{width:32px;height:32px;border:3px solid #24394f;border-top-color:#65b9ff;border-radius:50%;animation:spin .9s linear infinite}@keyframes spin{to{transform:rotate(360deg)}} </style>
+</head><body><div id="player"></div><div id="notice" role="status" aria-label="Cargando"><span class="spinner"></span></div>
+<script>
+'use strict';
+const id=new URLSearchParams(location.search).get('v');
+let player, error=0, desiredPaused=false, desiredVolume=70, pendingSeek=-1, ready=false, quality='hd720';
+function apply(){if(!ready)return;player.setVolume(desiredVolume);if(pendingSeek>=0){player.seekTo(pendingSeek,true);pendingSeek=-1;}const state=player.getPlayerState();if(desiredPaused){if(state!==2)player.pauseVideo();}else if(state!==1&&state!==3)player.playVideo();}
+window.hudVideo={
+ command(paused,seconds){desiredPaused=!!paused;if(Number.isFinite(seconds)&&seconds>=0)pendingSeek=seconds;apply();},
+ presentation(clean){const frame=document.getElementById('player');if(frame)frame.style.pointerEvents=clean?'none':'';},
+ volume(value){desiredVolume=Math.max(0,Math.min(100,value));if(ready)player.setVolume(desiredVolume);},
+ status(){let title='';try{if(ready&&typeof player.getVideoData==='function')title=player.getVideoData().title||'';}catch(_){}return {ready,state:ready?player.getPlayerState():-1,position:ready?player.getCurrentTime():0,duration:ready?player.getDuration():0,error,title,quality};}
+};
+window.onYouTubeIframeAPIReady=()=>{
+ if(!/^[A-Za-z0-9_-]{11}$/.test(id||'')){error=2;return;}
+ player=new YT.Player('player',{width:'100%',height:'100%',videoId:id,
+ playerVars:{autoplay:1,playsinline:1,controls:1,fs:0,origin:location.origin},
+ events:{onReady(){const frame=document.getElementById('player');if(frame)frame.name='hud-video-player';ready=true;document.getElementById('notice').remove();apply();},
+ onPlaybackQualityChange(event){if(typeof event.data==='string')quality=event.data;},
+ onError(event){error=event.data;const notice=document.getElementById('notice');if(notice)notice.textContent='No se puede reproducir este video ('+error+').';}}});
+};
+const script=document.createElement('script');script.src='https://www.youtube.com/iframe_api';
+script.onerror=()=>{error=5;document.getElementById('notice').textContent='No se pudo conectar con YouTube.';};
+document.head.appendChild(script);
+</script></body></html>

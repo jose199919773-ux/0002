@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"mobile-detect\",\"version\":\"1.0.7\",\"type\":\"asi\",\"entry\":\"Jose_mobile_detect.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_mobile_detect.asi\",\"source\":\"packages/mobile-detect/1.0.7/Jose_mobile_detect.asi\",\"bytes\":650752,\"sha256\":\"79eecbfc8e22b24060c36f690d6c5153cdf20d8fcf2650e4e33c836a2a77fd9b\"}]}}",
+  "signature": "42eb1aefb048b87f6217101786627dddfddd7ee2e95304444264eaa112cecc995a4acd414164ebb646c060117bd1a06895164a6c9900bf2ea0fea76aedfde393"
+}

@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"location-widget\",\"version\":\"1.0.11\",\"type\":\"asi\",\"entry\":\"Jose_location_widget.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_location_widget.asi\",\"source\":\"packages/location-widget/1.0.11/Jose_location_widget.asi\",\"bytes\":28672,\"sha256\":\"a3faaafbb146a891a84836189ab6bcd98bd75a615590617e4ba1a30f45314f83\"}]}}",
+  "signature": "012520a67d631d9672acbe6687441a6d8cb49000c0b250c798866b204c5a0b6110694ccc7ae6f2ead000fd1e358c7489f93f23e69ace027090a3465b11bd6e0e"
+}

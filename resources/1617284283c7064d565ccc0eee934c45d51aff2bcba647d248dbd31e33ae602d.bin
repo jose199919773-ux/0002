@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"blood-overlay\",\"version\":\"1.0.6\",\"type\":\"asi\",\"entry\":\"Jose_blood_overlay.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"assets/damage1.png\",\"source\":\"packages/blood-overlay/1.0.6/assets/damage1.png\",\"bytes\":402216,\"sha256\":\"1710221ffe50880e11fb16e4ba58272c07b34a2a13ddf031e7953c7172e262d9\"},{\"path\":\"Jose_blood_overlay.asi\",\"source\":\"packages/blood-overlay/1.0.6/Jose_blood_overlay.asi\",\"bytes\":15360,\"sha256\":\"0814fee4a6a456c6e6f060d83fabf7089d3dbce2ee57b9381e226b3c1cea25ee\"}]}}",
+  "signature": "fe65319e83445f8798b30891f62536280a815c3a9ca06ac688213bb4d6facdd9e3541524d49bfc33285051bae3434a920cc814a5627bde0739d3a31b28d705d0"
+}

@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"ambient-life\",\"version\":\"1.0.4\",\"type\":\"asi\",\"entry\":\"Jose_ambient_life.asi\",\"api\":7,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_ambient_life.asi\",\"source\":\"packages/ambient-life/1.0.4/Jose_ambient_life.asi\",\"bytes\":564224,\"sha256\":\"fa6d16bdbb561ac0fb1d7e2b9a2f487bed75b82348086884c3cdd1c63403ae76\"}]}}",
+  "signature": "29ce447f4fda3481b9209b41e59bfe4b3a7f191e214db06af36f0f7a76d0cff30546103e864e53878033f659e8e7c1f576a2f7f1904542946b110c773eb070c9"
+}

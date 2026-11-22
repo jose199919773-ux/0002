@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"ds-light-aura\",\"version\":\"1.0.6\",\"type\":\"asi\",\"entry\":\"Jose_ds_light_aura.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_ds_light_aura.asi\",\"source\":\"packages/ds-light-aura/1.0.6/Jose_ds_light_aura.asi\",\"bytes\":16384,\"sha256\":\"11192cd1e1fa3f8e12d3bb8bf441baa8a94ab37043b08b12cdd7e891d0b46350\"}]}}",
+  "signature": "d5a9747db5c13a62e54f7add94b3505a6646ab731ff2b09c268ca84596bfa555a9952a30088a95bcb03d3390ff1ebf93c8de2827c98f2f287ec901a9ecc1dd02"
+}

@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"blips-3d\",\"version\":\"1.0.10\",\"type\":\"asi\",\"entry\":\"Jose_blips_3d.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_blips_3d.asi\",\"source\":\"packages/blips-3d/1.0.10/Jose_blips_3d.asi\",\"bytes\":444928,\"sha256\":\"cc8a0e5484b17993dd0faee9d63fd7d0d937906f7f7ff777c39cf565e2c6409e\"}]}}",
+  "signature": "7f78dbab187bb87d3b22d2a84e28cab1d68ef07252a2382c938bec519986a782127cd40739f0e20c8a6cdb723cb9a832cf155bbd7cdd06608e7e3bf4bbdaa421"
+}

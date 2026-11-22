@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"skin-blood\",\"version\":\"1.0.5\",\"type\":\"asi\",\"entry\":\"Jose_skin_blood.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_skin_blood.asi\",\"source\":\"packages/skin-blood/1.0.5/Jose_skin_blood.asi\",\"bytes\":453632,\"sha256\":\"a64cdaa43745f82b2f9163c92460b4298fff6d9fac8e26ee57377d78570ddd24\"}]}}",
+  "signature": "e29abe1f65136ba4e92cb1733a3f8aada092b1869ce1a7508b124f703325eaeee1d4402f8eeb43f4da5044a84674be0b3f92d28ab50844a1375319b98dd2874b"
+}

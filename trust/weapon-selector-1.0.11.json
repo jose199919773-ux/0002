@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"weapon-selector\",\"version\":\"1.0.11\",\"type\":\"asi\",\"entry\":\"Jose_weapon_selector.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_weapon_selector.asi\",\"source\":\"packages/weapon-selector/1.0.11/Jose_weapon_selector.asi\",\"bytes\":225280,\"sha256\":\"a524dce7b546551dbd337fa14f5ab16c70f32f104e69d5a530859348f5ecc507\"}]}}",
+  "signature": "2809e21396618a3890ebcbd079c7bc8de7107afd037fc2058f0709d641ff5ae81bee094e85c57508ea0a7b1c0fb234c1e06003e2976628541216a4713ff5dbee"
+}

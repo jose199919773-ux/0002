@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"name-cflow\",\"version\":\"1.0.7\",\"type\":\"asi\",\"entry\":\"Jose_name_cflow.asi\",\"api\":6,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_name_cflow.asi\",\"source\":\"packages/name-cflow/1.0.7/Jose_name_cflow.asi\",\"bytes\":292352,\"sha256\":\"dc924a048bb0f63e979ac451b1c05f93630d90c057b096bfb77a915be675058b\"}]}}",
+  "signature": "448b1f48497c155fd5d3e5100750fcb3368000146dc611455eafff0c635ff701cab8287114df0b39d5ed9172950a013875170ea699877ca6282a470e7387ad99"
+}

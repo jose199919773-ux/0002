@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"analog-clock\",\"version\":\"1.2.7\",\"type\":\"asi\",\"entry\":\"Jose_analog_clock.asi\",\"api\":6,\"unloadable\":true,\"files\":[{\"path\":\"Jose_analog_clock.asi\",\"source\":\"packages/analog-clock/1.2.7/Jose_analog_clock.asi\",\"bytes\":49664,\"sha256\":\"d87417d8ac338685ec83ee3601f95e77ffd63fccd5a5dcc993782c45baea6738\"}]}}",
+  "signature": "99209adcb8d6ed59dbba744f4048a92809e64df5db337021e47c44cbde6bd36e2f0a0c5a76249884811cbbbb0634625c90a730ca74461001b720c3f2fc5e95db"
+}

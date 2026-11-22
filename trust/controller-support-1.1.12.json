@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"controller-support\",\"version\":\"1.1.12\",\"type\":\"asi\",\"entry\":\"JoseStore_Control.asi\",\"api\":8,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"JoseStore_Control.asi\",\"source\":\"packages/controller-support/1.1.12/JoseStore_Control.asi\",\"bytes\":1787392,\"sha256\":\"3cf36c2b3c32ecf1e1c45512586c40c333c925742d37d45d3b06e5862eaadeb0\"}]}}",
+  "signature": "40f6fd59dad8acb2f139e57f0c32fd9da3800b19cdf11092d8795592df4088d2f64b451b092de10e9f1a9331d4226d931e796318fbdcc71ce70fa1b33b80bc23"
+}
