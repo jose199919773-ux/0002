@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"efeh-hud\",\"version\":\"1.0.25\",\"type\":\"asi\",\"entry\":\"Jose_efeh_hud.asi\",\"api\":7,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_efeh_hud.asi\",\"source\":\"packages/efeh-hud/1.0.25/Jose_efeh_hud.asi\",\"bytes\":359936,\"sha256\":\"4037970c6401fa4fc3f2b7087722e45179fe3f3adc588bcfe3a4f5d3be83b2f2\"},{\"path\":\"assets/efeh_weapons.png\",\"source\":\"packages/efeh-hud/1.0.25/assets/efeh_weapons.png\",\"bytes\":689720,\"sha256\":\"8f324be48ee28a8fc68cff49f229ee65379eae04bc6aef8dd61db3f17381663f\"}]}}",
+  "signature": "be4e98d2cdd9ab593feb0d11a0a20ef6643d4af9d119ad49a8f61177ee6773cf7a8ae3266b11595ba1205671933d9b659b28d3b1edb3bbcf6c92f2ac1fca398e"
+}

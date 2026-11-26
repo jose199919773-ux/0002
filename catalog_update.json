@@ -1594,9 +1594,9 @@
         "order": 40,
         "icon": "",
         "summary": {
-          "es": "Frames por segundo con lectura estable",
-          "en": "Frames per second with stable readings",
-          "pt": "Frames por segundo com leitura estável"
+          "es": "FPS actual y promedio",
+          "en": "Current and average FPS",
+          "pt": "FPS atual e médio"
         },
         "enabledFields": [
           "enabled"
@@ -1634,7 +1634,7 @@
           "name": "Счетчик кадров в секунду",
           "description": "Легкий счетчик кадров в секунду (FPS) на экране со средним значением и настройкой цвета.",
           "title": "Счетчик FPS",
-          "summary": "Кадров в секунду при стабильных показаниях",
+          "summary": "Текущий и средний FPS",
           "groupName": "Виджеты"
         }
       },
@@ -1663,9 +1663,9 @@
       ],
       "entry": "JoseStore_Control.asi",
       "description": {
-        "es": "Juega con mando en PC con vibración, control de menús, cursor asistido y teclado en pantalla para chatear.",
-        "en": "Play with a controller on PC with vibration, menu navigation, assisted cursor, and an on-screen keyboard for chat.",
-        "pt": "Jogue com controle no PC com vibração, navegação em menus, cursor assistido e teclado na tela para o chat."
+        "es": "Añade soporte para mando, vibración, cursor, menús y teclado en pantalla.",
+        "en": "Adds controller support, vibration, cursor, menus, and an on-screen keyboard.",
+        "pt": "Adiciona suporte para controle, vibração, cursor, menus e teclado na tela."
       },
       "files": [
         {
@@ -1678,7 +1678,7 @@
       "locales": {
         "ru": {
           "name": "Soporte de mando",
-          "description": "Играйте с геймпадом на ПК с вибрацией, управлением меню, вспомогательным курсором и экранной клавиатурой для чата.",
+          "description": "Добавляет поддержку геймпада, вибрацию, курсор, меню и экранную клавиатуру.",
           "title": "Soporte de mando",
           "summary": "Элементы управления и настройки контроллера",
           "groupName": "Приложения"
