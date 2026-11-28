@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"purpose\":\"jose-store-package\",\"package\":{\"id\":\"chat-remake\",\"version\":\"1.0.21\",\"type\":\"asi\",\"entry\":\"Jose_chat_remake.asi\",\"api\":1,\"unloadable\":true,\"dependencies\":[],\"files\":[{\"path\":\"Jose_chat_remake.asi\",\"source\":\"packages/chat-remake/1.0.21/Jose_chat_remake.asi\",\"bytes\":4480000,\"sha256\":\"68811e2619eb26babe4d5eeaa142b1f2b0432396a3b66d3e365077e0f541ff48\"}]}}",
+  "signature": "db89ec53549020e6103876269e8ef3bad884764ebbc95e49d0dea90fd469b068a7eb507236432a25c2edf9bbfd0b1c9b2e857494e561b310117aa75a33440956"
+}
